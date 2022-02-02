@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+.navbar-header a p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: black;
+}
+
+.header{
+    font-size: 35px;
+    font-family: 'Yellowtail', cursive;
+    text-align: center;
+}
+.header i{
+    color: red;
+}
+
+
+.liveradio{
+    float: left;
+    width: 25%;
+    
+}
+.radio{
+    text-align: center;
+}
+.des{
+    padding: 15px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.copyright{
+ text-align: center;
+ font-size: 17px;
+}
