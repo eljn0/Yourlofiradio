@@ -7,3 +7,4 @@
 - Get License from channel owner.
 - Making it viral with social media.(yourlofiradio on instagram)
 - Add libraries.(for studying, sleeping, chilling, and videos part)
+- New Design and logo for Yourlofiradio.
