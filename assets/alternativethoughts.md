@@ -8,6 +8,8 @@
 - Making it viral with social media.(yourlofiradio on instagram)
 - Add libraries.(for studying, sleeping, chilling, and videos part)
 - New Design and logo for Yourlofiradio.
+- Bootstrap 4 will have to use for working quick.
+- need about 10$ for advertising in Facebook
 
 # Live Demo :
 
