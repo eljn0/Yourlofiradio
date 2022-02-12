@@ -10,6 +10,8 @@
 - New Design and logo for Yourlofiradio.
 - Bootstrap 4 will have to use for working quick.
 - need about 10$ for advertising in Facebook
+- I have to use flutter or dart for apk version.
+- also chatbot for discord server( which i don't know a lot of about discord )
 
 # Live Demo :
 
