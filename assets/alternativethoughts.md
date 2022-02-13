@@ -12,7 +12,7 @@
 - need about 10$ for advertising in Facebook
 - I have to use flutter or dart for apk version.
 - also chatbot for discord server( which i don't know a lot of about discord )
-- Rework will start on march.
+- Rework will start on after may.
 
 # Live Demo :
 
