@@ -13,6 +13,8 @@
 - I have to use flutter or dart for apk version.
 - also chatbot for discord server( which i don't know a lot of about discord )
 - Rework will start on after may.
+- New design will be uploaded.
+- also need .com domain for website
 
 # Live Demo :
 
