@@ -21,4 +21,4 @@
 
 https://yourlofiradio.netlify.app/  
 
-- Hiring for amateur designer for web design.
+
