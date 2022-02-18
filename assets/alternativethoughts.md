@@ -1,6 +1,6 @@
 # Maybe start to coding apk version for yourlofi radio.
 
-# Ideas
+# <p align="center">Ideas</p>
 
 - Change Subdomain to .com and get yourlofiradio.com
 - Create Discord server for yourlofiradio.
