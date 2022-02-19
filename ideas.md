@@ -15,7 +15,7 @@
 - Rework will start on after may.
 - New design will be uploaded.
 - also need .com domain for website
-- Siu I'm back 
+- Siu I'm back.
 
 # Live Demo :
  
