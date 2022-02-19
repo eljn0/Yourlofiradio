@@ -18,6 +18,10 @@
 - Siu I'm back 
 
 # Live Demo :
+ 
+- First, I've appreciate to github for gettig student developer pack.
+
+- Then I want to remind I will able to make viral the project with .me domain.
 
 https://yourlofiradio.netlify.app/  
 
