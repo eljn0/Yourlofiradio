@@ -26,3 +26,6 @@
 https://yourlofiradio.netlify.app/  
 
 
+# <p align="center">Social Media Accounts</p>
+ - Instagram
+ 
