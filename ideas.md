@@ -29,3 +29,4 @@ https://yourlofiradio.netlify.app/
 # <p align="center">Social Media Accounts</p>
  - Instagram
  - Registration in LinkeIn as a Company for resume
+ - New contrubutor will be aded soon.
