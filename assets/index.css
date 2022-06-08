@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
-
-*{
-    box-sizing: border-box;
-}
 .navbar-header a p{
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
@@ -18,8 +14,6 @@
 .header i{
     color: red;
 }
-
-
 .liveradio{
     float: left;
     width: 25%;
